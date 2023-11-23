@@ -121,3 +121,10 @@ Feel free to reach out to us if you have questions, ideas, or simply want to cha
 This repository is licensed under the MIT License. For more information, see the [LICENSE](LICENSE) file.
 
 Transforming your `readme.md` into an attractive, user-friendly guide is crucial for engaging your audience and making a lasting impression. If you have any further requests or need assistance with anything else, feel free to ask.
+
+deploy to heroku
+
+
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/ashui501/Master-AI-BOT"> <img 
+src="https://img.shields.io/badge/Deploy%20To%20Heroku-pink?style=flat&logo=heroku" width="210" height="34.45" /></a></p>
+
